@@ -8,16 +8,16 @@ This is a simple app that implements the concept of instant messaging.
 ## Steps
 
 	1. Install Node e NPM
-		⋅⋅* https://nodejs.org/en/download
+		* https://nodejs.org/en/download
 	2. Install Bower
-		⋅⋅* http://bower.io/#install-bower
+		* http://bower.io/#install-bower
 	3. Install Cordova and Ionic CLI
-		⋅⋅* Execute `npm i cordova ionic@beta -g` on the terminal and, once finished, verify the instalation status with the 
+		* Execute `npm i cordova ionic@beta -g` on the terminal and, once finished, verify the instalation status with the 
 	command `cordova -v && ionic -v`
 	4. Install Android and/or iOS environment
-		⋅⋅* iOS
-    	XCode (through Apple Store)
-		⋅⋅* Android
-    	Android SDK's (http://ionicframework.com/docs/v2/resources/what-is/#android-sdk)
+		* iOS
+    	...XCode (through Apple Store)
+		* Android
+    	...Android SDK's (http://ionicframework.com/docs/v2/resources/what-is/#android-sdk)
 	5. Install Ionic View on your phone 
 
