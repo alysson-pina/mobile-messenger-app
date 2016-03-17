@@ -12,8 +12,8 @@ This is a simple app that implements the concept of instant messaging.
 	2. Install Bower
 		*	http://bower.io/#install-bower
 	3. Install Cordova and Ionic CLI
-		*	Execute `npm i cordova ionic@beta -g` on the terminal and, once finished, verify the instalation 
-		status with the command `cordova -v && ionic -v`
+		*	Execute `npm i cordova ionic@beta -g` on the terminal and, once finished, verify the 
+		instalation status with the command `cordova -v && ionic -v`
 	4. Install Android and/or iOS environment
 		*	iOS
     		XCode
@@ -29,5 +29,5 @@ This is a simple app that implements the concept of instant messaging.
 		* if issues are seeing here, try running same run command again
 	3. On Phone
 		* `ionic upload` (needs ionic account to be created)
-		Once App is pushed to your Ionic account, go to your Cellphone, 
-		open Ionic View app and open your brand new app.
+		Once App is pushed to your Ionic account, go to your Cellphone, open Ionic View app
+		and open your brand new app.
