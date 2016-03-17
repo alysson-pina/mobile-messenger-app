@@ -29,4 +29,4 @@ This is a simple app that implements the concept of instant messaging.
 		* if issues are seeing here, try running same run command again
 	3. On Phone
 		* `ionic upload` (needs ionic account to be created)
-		* Once App is pushed to your Ionic account, go to your Cellphone, open Ionic View app and open your brand new app.
+		...    Once App is pushed to your Ionic account, go to your Cellphone, open Ionic View app and open your brand new app.
